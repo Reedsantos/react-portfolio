@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Ascent",
+    "image": "https://raw.githubusercontent.com/keiththarp/Ascent-Sobriety-Tool/master/public/img/md/counter-page.png?raw=true",
+    "project": "A group project to help maintain sobriety",
+    "location": "https://github.com/keiththarp/Ascent-Sobriety-Tool"
+  },
+  {
+    "id": 2,
+    "name": "Employee Directory",
+    "image": "https://raw.githubusercontent.com/Reedsantos/employee-directory/main/public/assets/screenshot.png?raw=true",
+    "project": "A directory of mock employees in react.js",
+    "location": "https://github.com/Reedsantos/employee-directory"
+  },
+  {
+    "id": 3,
+    "name": "Employee Tracker",
+    "image": "https://raw.githubusercontent.com/Reedsantos/Best-Buy-Employee-Tracker/master/screenshot.png?raw=true",
+    "project": "Uses MySQL to control employees and roles",
+    "location": "https://github.com/Reedsantos/Best-Buy-Employee-Tracker"
+  },
+  {
+    "id": 4,
+    "name": "Express Note Taker",
+    "image": "https://raw.githubusercontent.com/Reedsantos/Express-Note-Taker/master/public/assets/Notes.png",
+    "project": "Store, post, and delete notes with express.js",
+    "location": "https://github.com/Reedsantos/Express-Note-Taker"
+  },
+  {
+    "id": 5,
+    "name": "Readme Generator",
+    "image": "https://raw.githubusercontent.com/Reedsantos/Super-Duper-Readme-Generator/master/screenshot.png",
+    "project": "Prompts the user to answer questions to create a neat Readme file",
+    "location": "https://github.com/Reedsantos/Super-Duper-Readme-Generator"
+  },
+  {
+    "id": 6,
+    "name": "Schedule App",
+    "image": "https://raw.githubusercontent.com/Reedsantos/Javascript-Schedule-App/master/schedule.png",
+    "project": "Vanilla Javascript used to create a daily schedule app ",
+    "location": "https://github.com/Reedsantos/Javascript-Schedule-App"
+  }
+]
